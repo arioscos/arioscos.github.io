@@ -1,3 +1,3 @@
 name: Ari Oscos
 markdown: kramdown
-permalink: /blog/:2018/:04/:01/:About-Me
+permalink: /blog/:year/:month/:day/:title
