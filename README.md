@@ -1,2 +1,1 @@
-# arioscos.github.io
-Personal Website
+# arioscos-website
