@@ -35,6 +35,11 @@ html,body{
 	line-height: 70px;
 }
 
+.menu a:hover{
+
+		color: red;
+	}
+
 label {
 
 	margin: 0 40px 0 0;
@@ -72,11 +77,20 @@ label {
 		margin: 0;
 
 	}
+
+	.menu a:hover{
+
+		color: red;
+	}
+
 	#toggle:checked + .menu{
 		display: block;
 	}
 
-	
+	.active
+	{
+		display: block;
+	}
 
 
 
