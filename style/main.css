@@ -40,6 +40,12 @@ html,body{
 		color: red;
 	}
 
+
+.menu a.current{
+
+		color: red;
+	}
+
 label {
 
 	margin: 0 40px 0 0;
@@ -79,6 +85,11 @@ label {
 	}
 
 	.menu a:hover{
+
+		color: red;
+	}
+
+	nav a.current{
 
 		color: red;
 	}
