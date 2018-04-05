@@ -10,7 +10,6 @@
 
 		<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 		<script src="jquery-3.3.1.min.js"></script>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
 		<script src="js/script.js"></script>
 
@@ -21,7 +20,7 @@
 	<body>
 
 
-		<!-- <div class="nav">
+		<div class="nav">
 
 			<label for="toggle">&#9776;</label>
 			<input type="checkbox" id="toggle"/>
@@ -29,28 +28,17 @@
 
 			<div class="menu">
 
-				<a href="index.html">About</a>
-				<a href="recent.html">Recent Projects</a>
-				<a href="news.html">News</a>
-				<a href="endorse.html">Endorsements|Equipment</a>
-				<a href="contact.html">Contact | Social Media</a>
+				<a href="index.php">About</a>
+				<a href="recent.php">Recent Projects</a>
+				<a href="news.php">News</a>
+				<a href="endorse.php">Endorsements|Equipment</a>
+				<a href="contact.php">Contact | Social Media</a>
 				
 
 			</div>
 
-		</div>.  -->
 
-		<nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="recent.html">About</a></li>
-        <li><a href="news.html">Contact</a></li>
-        <li><a href="endorse.html">Eek!</a></li>
-        <li><a href="contact.html">Eek!</a></li>
-      </ul>
-    </nav>
-
-
+		</div>
 		<script src="http://code.jquery.com/jquery-3.3.1.min.js"></script>
 		<script src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
 		
