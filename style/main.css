@@ -88,24 +88,30 @@ img.sunsetclose{
 
 		display: block;
 		cursor: pointer;
+
+
 	}
 
 	.menu{
 
 		text-align: center;
-		width: 100%;
-		display: none;
+		width: 100%; 
+		display: none;  
 
 	}
 
 	.menu a {
 
-		display: block;	
 		color: black;
 		text-decoration: none;
 		
-		
+	}
 
+	.menu li{
+
+		float: left;
+		margin: 3px;
+		line-height: 1;
 	}
 
 	.menu a:hover{
@@ -120,10 +126,8 @@ img.sunsetclose{
 
 	#toggle:checked + .menu{
 		display: block;
-		width: 200px;
-		line-height: 40px;
 
-
+		text-align: center;
 	}
 
 	.active
@@ -133,10 +137,10 @@ img.sunsetclose{
 
 	img.sunsetclose{
 
-		/*margin-top: 270px;*/
 
-  	
 	}
+
+	
 }
 
 
